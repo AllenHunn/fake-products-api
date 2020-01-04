@@ -1,19 +1,19 @@
 {
   "products": [
   {
-    "_id": 1,
+    "id": 1,
     "prod_name": "Junk"
   },
   {
-    "_id": 2,
+    "id": 2,
     "prod_name": "Trunk"
   },
   {
-    "_id": 3,
+    "id": 3,
     "prod_name": "Bob's"
   },
   {
-    "_id": 4,
+    "id": 4,
     "prod_name": "Burgers"
   }
 ]
