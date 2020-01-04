@@ -1,4 +1,5 @@
-"products": [
+{
+  "products": [
   {
     "_id": 1,
     "prod_name": "Junk"
@@ -16,3 +17,4 @@
     "prod_name": "Burgers"
   }
 ]
+}
